@@ -1,3 +1,4 @@
+# doc: https://spring.io/guides/gs/spring-boot-docker/
 MAINTAINER Javier Pérez <javier@appaka.ch>
 
 FROM gradle:4.7.0-jdk8-alpine AS build
